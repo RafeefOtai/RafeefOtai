@@ -10,4 +10,4 @@ Robotics Engineer in Progress ⏳
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ## Interests
-🌐 Networking • 🔒 Security • ☁️ Cloud • 📡 IoT • 🐍 Python • 🧠 AI
+🌐 Networking • 🔒 Security • ☁️ Cloud • 🐍 Python • 🧠 AI
