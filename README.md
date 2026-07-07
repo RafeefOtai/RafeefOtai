@@ -1,8 +1,7 @@
 # Hi, I'm Rafeef!
-Robotics Engineer in Progress⏳
+Robotics Engineer in Progress ⏳
 
 ## Interests
-- 🌐 Networking
 - 🔒 Network & Cloud Security
 - ☁️ Cloud Computing
 - 🐍 Python
