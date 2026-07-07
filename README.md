@@ -1,4 +1,4 @@
-# Hi there, I'm Rafeef!
+# Hi, I'm Rafeef!
 Robotics Engineer in Progress⏳
 
 ## Interests
