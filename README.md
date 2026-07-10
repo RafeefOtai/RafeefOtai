@@ -1,6 +1,3 @@
-# Hi there!
-Robotics Engineer in Progress ⏳
-
 ## Things I work with
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
